@@ -3,4 +3,4 @@ Integration project in iOS done at EhB in the 2nd year of Multimedia &amp; Commu
 
 Code last updated: May 2016
 
-![Poster](https://github.com/Bramnouwen/D-AID/blob/master/Poster.png)
+![Poster](https://github.com/Bramnouwen/D-AID/blob/master/Poster.jpg)
